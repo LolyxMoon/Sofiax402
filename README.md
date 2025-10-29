@@ -2,7 +2,7 @@
 <img width="1728" height="576" alt="image" src="https://github.com/user-attachments/assets/75fbe1e2-2ac3-41f8-90b2-447129ea7615" />
 
 Welcome to Sofia x402
-A revolutionary HTTP 402 implementation for Sofia blockchain. Enable seamless micropayments and pay-per-use APIs with built-in blockchain verification.
+A revolutionary HTTP 402 implementation for Sofia AI Agent. Enable seamless micropayments and pay-per-use APIs with built-in blockchain verification.
 ## Features
 
 - ⚡ **Bun Runtime** - Fast JavaScript runtime with built-in bundler, transpiler, and package manager
