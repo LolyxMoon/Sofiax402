@@ -1,4 +1,4 @@
-# X402 API Gateway
+# SOFIA X402 AI AGENT  BY ELIZA FRAMEWORK
 <img width="1728" height="576" alt="image" src="https://github.com/user-attachments/assets/75fbe1e2-2ac3-41f8-90b2-447129ea7615" />
 
 A modern Express-based API Gateway with dynamic routing, content negotiation, and upstream proxying. Powered by Bun runtime and managed by PM2 process manager.
