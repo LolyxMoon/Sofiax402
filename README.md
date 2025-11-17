@@ -1,8 +1,8 @@
-# OLIVIA X402 AI AGENT  BY ELIZA FRAMEWORK
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/5ee12f7b-98c7-4ed4-8f04-908a67956327" />
+# VERONICA X402 AI AGENT  BY ELIZA FRAMEWORK
 
+<a href="https://freeimage.host/"><img src="https://iili.io/fHyfYzX.jpg" alt="fHyfYzX.jpg" border="0" /></a>
 
-Welcome to Olivia x402
+Welcome to VERONICA x402
 A revolutionary HTTP 402 implementation for Olivia AI Agent. Enable seamless micropayments and pay-per-use APIs with built-in blockchain verification.
 ## Features
 
